@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary challenge execution directories
+challenge_files/
+test_sandbox/
+test_challenge_env/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.swp
+*~
+tempCodeRunnerFile.py
+
+# Operating system artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
